@@ -25,12 +25,6 @@
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
-## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
 ## Output:
 ![Screenshot 2023-11-20 103303](https://github.com/hasnu0406/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/135305537/ebcf8160-34a0-40b0-9a4f-b8263442661a)
 ### Y-Axis Base: In a Polar 3D printer, the concept of a Y-axis base is not directly applicable as it is in a Cartesian 3D printer. Instead of using a Cartesian coordinate system (X, Y, and Z), Polar 3D printers use a polar coordinate system
